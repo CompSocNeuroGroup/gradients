@@ -22,6 +22,12 @@ https://brainspace.readthedocs.io/en/latest/index.html
 ColeAnticevic Network Partition
 https://github.com/ColeLab/ColeAnticevicNetPartition
 
+Spectral clustering code:
+https://figshare.com/articles/dataset/FACIALRECFROMDNA/7649024/1
+
+Data and code from Face-Brain shared genetic basis:
+https://figshare.com/collections/Shared_heritability_of_face_and_brain_shape/5089841
+
 Some data to consider:
 
 https://fcon_1000.projects.nitrc.org/indi/indiPRIME.html
